@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img src="https://github.com/apostate0/apostate0/blob/main/header.png"
 Hey there, I'm Apostate!<br>I’m a passionate Computer Science student who believes that the best way to learn is by building in the open. I’m currently focused on sharpening my skills and contributing to the global developer community.<br><br>🚀 About Me<br>🎓 Learning & Growing: Currently a college student diving deep into software development.<br><br>🤝 Collaboration: I’m looking to collaborate on any and all open-source projects! Whether it's a small bug fix or a large-scale feature, I want to help.<br><br>💡 Philosophy: I’m a firm believer in learning through my peers and community-driven development.<br><br>🛠️ Current Goal: To turn coffee into code and contribute to meaningful projects that solve real-world problems.
 
 
